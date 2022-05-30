@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.11",
+    "isomorphic-fetch": "^3.0.0"
+  }
+}
